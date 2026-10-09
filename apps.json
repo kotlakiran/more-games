@@ -13,7 +13,7 @@
       "name": "Kareler 3D Box",
       "package": "com.kotlakiran.kareler3d",
       "tagline": "3D Dots & Boxes",
-      "published": true,
+      "published": false,
       "accent": "#82E0B1",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kotlakiran.kareler3d.png"
     },
@@ -76,8 +76,8 @@
     {
       "name": "Whooshy",
       "package": "com.kirankotla.arrowflow.ultimate",
-      "tagline": "Slide the arrows",
-      "published": false,
+      "tagline": "Slide-the-arrows puzzle",
+      "published": true,
       "accent": "#2CD7DC",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.arrowflow.ultimate.png"
     },

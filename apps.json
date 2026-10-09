@@ -1,15 +1,76 @@
 {
   "updated": "2026-10-09",
   "apps": [
-    { "name": "Kareler", "package": "com.kirankotla.kareler", "tagline": "Dots & Boxes strategy", "published": true, "accent": "#2CD7DC" },
-    { "name": "Kareler 3D Box", "package": "com.kotlakiran.kareler3d", "tagline": "3D Dots & Boxes", "published": true, "accent": "#82E0B1" },
-    { "name": "Tally Haptic", "package": "com.kirankotla.tallyhaptic", "tagline": "Haptic habit counter", "published": true, "accent": "#EEA85C" },
-    { "name": "Arrow Flow", "package": "com.game.arrowflow", "tagline": "Arrow-matching puzzle", "published": true, "accent": "#FF7060" },
-    { "name": "Rangoli Flow", "package": "com.kirankotla.rangoliflow", "tagline": "Conveyor-sort art", "published": false, "accent": "#EEA85C" },
-    { "name": "Rescue Fireflies", "package": "com.kirankotla.rescuefireflies", "tagline": "Firefly rescue", "published": false, "accent": "#2CD7DC" },
-    { "name": "Crown Grid", "package": "com.kirankotla.crowngrid.queens", "tagline": "Queens logic puzzle", "published": false, "accent": "#82E0B1" },
-    { "name": "CartNote AI", "package": "com.kirankotla.cartnote", "tagline": "Smart grocery lists", "published": false, "accent": "#FF7060" },
-    { "name": "Crop Season", "package": "com.kirankotla.cropseason", "tagline": "Farm P&L ledger", "published": false, "accent": "#EEA85C" },
-    { "name": "Whooshy", "package": "com.kirankotla.arrowflow.ultimate", "tagline": "Slide the arrows", "published": false, "accent": "#2CD7DC" }
+    {
+      "name": "Kareler",
+      "package": "com.kirankotla.kareler",
+      "tagline": "Dots & Boxes strategy",
+      "published": true,
+      "accent": "#2CD7DC"
+    },
+    {
+      "name": "Kareler 3D Box",
+      "package": "com.kotlakiran.kareler3d",
+      "tagline": "3D Dots & Boxes",
+      "published": true,
+      "accent": "#82E0B1"
+    },
+    {
+      "name": "Tally Haptic",
+      "package": "com.kirankotla.tallyhaptic",
+      "tagline": "Haptic habit counter",
+      "published": true,
+      "accent": "#EEA85C"
+    },
+    {
+      "name": "Arrow Flow",
+      "package": "com.game.arrowflow",
+      "tagline": "Arrow-matching puzzle",
+      "published": true,
+      "accent": "#FF7060",
+      "icon": "https://play-lh.googleusercontent.com/uvtU5XvQT3b53oIaUbASu1kiopOlq3lZRiR2A7ANfE-G5D5ZY10jbu9kek4FCWAXtt3HQWmYvwl5OpOAzqwIzfU=s0-br30"
+    },
+    {
+      "name": "Rangoli Flow",
+      "package": "com.kirankotla.rangoliflow",
+      "tagline": "Conveyor-sort art",
+      "published": false,
+      "accent": "#EEA85C"
+    },
+    {
+      "name": "Rescue Fireflies",
+      "package": "com.kirankotla.rescuefireflies",
+      "tagline": "Firefly rescue",
+      "published": false,
+      "accent": "#2CD7DC"
+    },
+    {
+      "name": "Crown Grid",
+      "package": "com.kirankotla.crowngrid.queens",
+      "tagline": "Queens logic puzzle",
+      "published": false,
+      "accent": "#82E0B1"
+    },
+    {
+      "name": "CartNote AI",
+      "package": "com.kirankotla.cartnote",
+      "tagline": "Smart grocery lists",
+      "published": false,
+      "accent": "#FF7060"
+    },
+    {
+      "name": "Crop Season",
+      "package": "com.kirankotla.cropseason",
+      "tagline": "Farm P&L ledger",
+      "published": false,
+      "accent": "#EEA85C"
+    },
+    {
+      "name": "Whooshy",
+      "package": "com.kirankotla.arrowflow.ultimate",
+      "tagline": "Slide the arrows",
+      "published": false,
+      "accent": "#2CD7DC"
+    }
   ]
 }

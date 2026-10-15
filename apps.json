@@ -66,6 +66,27 @@
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.arrowflow.ultimate.png"
     },
     {
+      "name": "Bridge Builders",
+      "package": "com.kirankotla.bridgebuilders",
+      "tagline": "Bridge-connection strategy",
+      "published": false,
+      "accent": "#82E0B1"
+    },
+    {
+      "name": "Connect Four",
+      "package": "com.kirankotla.connectfour",
+      "tagline": "4-in-a-row strategy",
+      "published": false,
+      "accent": "#FF7060"
+    },
+    {
+      "name": "Laser Grid",
+      "package": "com.kirankotla.lasergrid",
+      "tagline": "Laser-mirror strategy",
+      "published": false,
+      "accent": "#EEA85C"
+    },
+    {
       "name": "Chain Reactor",
       "package": "com.kirankotla.chainreactor",
       "tagline": "Energy-orb chain strategy",
@@ -83,7 +104,7 @@
       "name": "GridForge",
       "package": "com.kirankotla.gridforge",
       "tagline": "Balanced sum puzzle",
-      "published": false,
+      "published": true,
       "accent": "#E5A93C",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.gridforge.png"
     }

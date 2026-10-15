@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-15",
   "apps": [
     {
       "name": "Kareler",
@@ -8,14 +8,6 @@
       "published": true,
       "accent": "#2CD7DC",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.kareler.png"
-    },
-    {
-      "name": "Kareler 3D Box",
-      "package": "com.kotlakiran.kareler3d",
-      "tagline": "3D Dots & Boxes",
-      "published": false,
-      "accent": "#82E0B1",
-      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kotlakiran.kareler3d.png"
     },
     {
       "name": "Tally Haptic",
@@ -37,7 +29,7 @@
       "name": "Rangoli Flow",
       "package": "com.kirankotla.rangoliflow",
       "tagline": "Conveyor-sort art",
-      "published": false,
+      "published": true,
       "accent": "#EEA85C",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.rangoliflow.png"
     },
@@ -45,7 +37,7 @@
       "name": "Rescue Fireflies",
       "package": "com.kirankotla.rescuefireflies",
       "tagline": "Firefly rescue",
-      "published": false,
+      "published": true,
       "accent": "#2CD7DC",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.rescuefireflies.png"
     },
@@ -53,7 +45,7 @@
       "name": "Crown Grid",
       "package": "com.kirankotla.crowngrid.queens",
       "tagline": "Queens logic puzzle",
-      "published": false,
+      "published": true,
       "accent": "#82E0B1",
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.crowngrid.queens.png"
     },
@@ -66,14 +58,6 @@
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.cartnote.png"
     },
     {
-      "name": "Crop Season",
-      "package": "com.kirankotla.cropseason",
-      "tagline": "Farm P&L ledger",
-      "published": false,
-      "accent": "#EEA85C",
-      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.cropseason.png"
-    },
-    {
       "name": "Whooshy",
       "package": "com.kirankotla.arrowflow.ultimate",
       "tagline": "Slide-the-arrows puzzle",
@@ -82,12 +66,26 @@
       "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.arrowflow.ultimate.png"
     },
     {
-      "name": "Sum Foundry",
-      "package": "com.kirankotla.sumfoundry",
+      "name": "Chain Reactor",
+      "package": "com.kirankotla.chainreactor",
+      "tagline": "Energy-orb chain strategy",
+      "published": false,
+      "accent": "#2CD7DC"
+    },
+    {
+      "name": "Color Clash",
+      "package": "com.kirankotla.colorclash",
+      "tagline": "Territory capture strategy",
+      "published": false,
+      "accent": "#2CD7DC"
+    },
+    {
+      "name": "GridForge",
+      "package": "com.kirankotla.gridforge",
       "tagline": "Balanced sum puzzle",
       "published": false,
       "accent": "#E5A93C",
-      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.sumfoundry.png"
+      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.gridforge.png"
     }
   ]
 }

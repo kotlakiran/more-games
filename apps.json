@@ -62,35 +62,40 @@
       "package": "com.kirankotla.bridgebuilders",
       "tagline": "Bridge-connection strategy",
       "published": false,
-      "accent": "#82E0B1"
+      "accent": "#82E0B1",
+      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.bridgebuilders.png"
     },
     {
       "name": "Connect Four",
       "package": "com.kirankotla.connectfour",
       "tagline": "4-in-a-row strategy",
       "published": false,
-      "accent": "#FF7060"
+      "accent": "#FF7060",
+      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.connectfour.png"
     },
     {
       "name": "Laser Grid",
       "package": "com.kirankotla.lasergrid",
       "tagline": "Laser-mirror strategy",
       "published": false,
-      "accent": "#EEA85C"
+      "accent": "#EEA85C",
+      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.lasergrid.png"
     },
     {
       "name": "Chain Reactor",
       "package": "com.kirankotla.chainreactor",
       "tagline": "Energy-orb chain strategy",
       "published": false,
-      "accent": "#2CD7DC"
+      "accent": "#2CD7DC",
+      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.chainreactor.png"
     },
     {
       "name": "Color Clash",
       "package": "com.kirankotla.colorclash",
       "tagline": "Territory capture strategy",
       "published": false,
-      "accent": "#2CD7DC"
+      "accent": "#2CD7DC",
+      "icon": "https://raw.githubusercontent.com/kotlakiran/more-games/main/icons/com.kirankotla.colorclash.png"
     },
     {
       "name": "GridForge",

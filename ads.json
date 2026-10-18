@@ -4,7 +4,7 @@
   "defaultEnabled": false,
   "apps": {
     "com.kirankotla.arrowflow.ultimate": {
-      "enabled": false
+      "enabled": true
     },
     "com.kirankotla.bridgebuilders": {
       "enabled": false

@@ -12,6 +12,12 @@ Raw URL used by the app:
 https://raw.githubusercontent.com/kotlakiran/more-games/main/apps.json
 ```
 
+The shared runtime ad flag file is available at:
+
+```
+https://raw.githubusercontent.com/kotlakiran/more-games/main/ads.json
+```
+
 ## Schema
 
 ```json
@@ -33,3 +39,24 @@ https://raw.githubusercontent.com/kotlakiran/more-games/main/apps.json
   (`market://details?id=<package>`), falling back to the web Play URL.
 - `published: false` → shown under "More — coming soon"; tapping shows a note instead of a store link.
 - `accent` is a hex colour used for the app icon/accent.
+
+## Runtime ad flags
+
+`ads.json` uses the application package name as the key:
+
+```json
+{
+  "schemaVersion": 1,
+  "updated": "YYYY-MM-DD",
+  "defaultEnabled": false,
+  "apps": {
+    "com.example.app": {
+      "enabled": false
+    }
+  }
+}
+```
+
+Apps must fail closed when the file cannot be fetched or parsed. Setting an
+app's `enabled` value to `true` only permits the app's own policy-compliant ad
+cadence; it must not make ads appear at launch.

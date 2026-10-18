@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-10-18",
+  "defaultEnabled": false,
+  "apps": {
+    "com.kirankotla.arrowflow.ultimate": {
+      "enabled": false
+    },
+    "com.kirankotla.bridgebuilders": {
+      "enabled": false
+    },
+    "com.kirankotla.chainreactor": {
+      "enabled": false
+    },
+    "com.kirankotla.colorclash": {
+      "enabled": false
+    },
+    "com.kirankotla.connectfour": {
+      "enabled": false
+    },
+    "com.kirankotla.crowngrid.queens": {
+      "enabled": false
+    },
+    "com.kirankotla.energynetwork": {
+      "enabled": false
+    },
+    "com.kirankotla.gridforge": {
+      "enabled": false
+    },
+    "com.kirankotla.kareler": {
+      "enabled": false
+    },
+    "com.kirankotla.kingdomgrid": {
+      "enabled": false
+    },
+    "com.kirankotla.labbalance3d": {
+      "enabled": false
+    },
+    "com.kirankotla.lasergrid": {
+      "enabled": false
+    },
+    "com.kirankotla.magnetwars": {
+      "enabled": false
+    },
+    "com.kirankotla.neontrails": {
+      "enabled": false
+    },
+    "com.kirankotla.phonics": {
+      "enabled": false
+    },
+    "com.kirankotla.portalrace": {
+      "enabled": false
+    },
+    "com.kirankotla.rangoliflow": {
+      "enabled": false
+    },
+    "com.kirankotla.rescuefireflies.game": {
+      "enabled": false
+    },
+    "com.kirankotla.tallyhaptic": {
+      "enabled": false
+    },
+    "com.kirankotla.wonderlab": {
+      "enabled": false
+    }
+  }
+}
